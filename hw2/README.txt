@@ -1,0 +1,1 @@
+Place the given python notebook and both the datasets in the same folder. All steps about usage of functions and how to load the datasets is provided in the comments of the notebook.
